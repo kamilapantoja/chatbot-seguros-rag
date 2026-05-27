@@ -1,0 +1,22 @@
+[
+  {"id": 1, "categoria": "sinistro_auto", "pergunta": "Como faço para acionar o seguro de automóvel em caso de roubo?"},
+  {"id": 2, "categoria": "sinistro_auto", "pergunta": "Qual o prazo para comunicar um acidente de carro à seguradora?"},
+  {"id": 3, "categoria": "cobertura", "pergunta": "O seguro auto cobre danos a terceiros?"},
+  {"id": 4, "categoria": "cobertura", "pergunta": "O que é cobertura compreensiva?"},
+  {"id": 5, "categoria": "apolice", "pergunta": "Como cancelar minha apólice de seguro?"},
+  {"id": 6, "categoria": "apolice", "pergunta": "Posso transferir a apólice para outra pessoa?"},
+  {"id": 7, "categoria": "vida", "pergunta": "Quais são as exclusões mais comuns em seguros de vida?"},
+  {"id": 8, "categoria": "vida", "pergunta": "O seguro de vida cobre suicídio?"},
+  {"id": 9, "categoria": "residencial", "pergunta": "Seguro residencial cobre enchente?"},
+  {"id": 10, "categoria": "residencial", "pergunta": "Como funciona o seguro residencial para inquilinos?"},
+  {"id": 11, "categoria": "regulamentacao", "pergunta": "O que é a SUSEP e qual seu papel?"},
+  {"id": 12, "categoria": "regulamentacao", "pergunta": "Quem fiscaliza as seguradoras no Brasil?"},
+  {"id": 13, "categoria": "termos", "pergunta": "O que é franquia em um seguro?"},
+  {"id": 14, "categoria": "termos", "pergunta": "Qual a diferença entre prêmio e indenização?"},
+  {"id": 15, "categoria": "processo", "pergunta": "Quanto tempo demora para receber a indenização após um sinistro?"},
+  {"id": 16, "categoria": "processo", "pergunta": "Como contestar uma negativa de cobertura?"},
+  {"id": 17, "categoria": "edge_case", "pergunta": "Vocês cobrem viagens espaciais?"},
+  {"id": 18, "categoria": "edge_case", "pergunta": "Qual o melhor seguro pra mim?"},
+  {"id": 19, "categoria": "fora_escopo", "pergunta": "Qual a previsão do tempo hoje?"},
+  {"id": 20, "categoria": "fora_escopo", "pergunta": "Me ensine a fazer um bolo de chocolate."}
+]

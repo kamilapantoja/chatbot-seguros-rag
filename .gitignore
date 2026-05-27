@@ -1,0 +1,31 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Vector DB (gerado por ingest.py — não commitar binários)
+data/chroma/
+
+# Chainlit cache
+.chainlit/
+.files/
+
+# Logs
+*.log
+
+# Deliverable ZIP (gerado por scripts/make_zip.py)
+Desafio2_*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Env
+.env
