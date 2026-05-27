@@ -15,7 +15,7 @@ Segue a entrega do Desafio 2 do curso InsurMinds.
 - **Modalidade:** individual
 - **Representante / único integrante:**
   - Nome: Kamila Pantoja
-  - E-mail: kamilapantoja@bemol.com.br
+  - E-mail: kms.pantoja@gmail.com
   - Celular: (92) 98133-9103
 
 ## Sobre a solução

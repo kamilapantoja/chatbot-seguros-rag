@@ -7,7 +7,7 @@
 
 - **Nome:** Dracarys — House of the RAG
 - **Representante:** Kamila Pantoja
-- **E-mail:** kamilapantoja@bemol.com.br
+- **E-mail:** kms.pantoja@gmail.com
 - **Integrantes:** Kamila Silva Pantoja
 
 ## Objetivo

@@ -189,6 +189,6 @@ Entrega do **Desafio 2 — "Vamos Conversar?"** do curso InsurMinds (I2A2 Academ
 
 - **Grupo:** Dracarys — House of the RAG (entrega individual)
 - **Integrante:** Kamila Silva Pantoja
-- **E-mail:** kamilapantoja@bemol.com.br
+- **E-mail:** kms.pantoja@gmail.com
 
 Relatório completo em [`relatorio-final.md`](relatorio-final.md).
