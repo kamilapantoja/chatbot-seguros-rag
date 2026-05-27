@@ -50,7 +50,7 @@ Os arquivos `setup.bat` e `start_chatbot.bat` foram renomeados para `setup.bat.t
 - Resultados do eval (`tests/eval_results.md`)
 - Prints da execução (`prints/`)
 
-Repositório GitHub: (opcional — adicionar se for publicar)
+Repositório GitHub: https://github.com/kamilapantoja/chatbot-seguros-rag
 
 Atenciosamente,
 Kamila Pantoja

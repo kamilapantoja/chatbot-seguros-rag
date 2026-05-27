@@ -6,7 +6,7 @@ from pathlib import Path
 PROJECT = Path(__file__).resolve().parent.parent
 ZIP_NAME = "Desafio2_Dracarys_KamilaPantoja.zip"
 
-EXCLUDE_DIRS = {".venv", "__pycache__", ".chainlit", ".files"}
+EXCLUDE_DIRS = {".venv", "__pycache__", ".chainlit", ".files", ".git"}
 EXCLUDE_DATA_SUBDIRS = {"chroma"}
 EXCLUDE_EXTENSIONS = {".log", ".pyc"}
 EXCLUDE_FILES = {".pip-install.log", ".ingest.log"}
